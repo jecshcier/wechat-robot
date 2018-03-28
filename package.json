@@ -1,0 +1,22 @@
+{
+  "name": "wechat-robot",
+  "version": "1.0.0",
+  "description": "wechat-robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jecshcier/wechat-robot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jecshcier/wechat-robot/issues"
+  },
+  "homepage": "https://github.com/jecshcier/wechat-robot#readme",
+  "dependencies": {
+    "wechaty": "^0.13.91"
+  }
+}
